@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/collins-wanjiru-259398271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/collins-wanjiru-259398271" height="30" width="40" /></a>
-<a href="https://kaggle.com/collins warui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="collins warui" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/collins-wanjiru-259398271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/collins-wanjiru-259398271" height="30" width="40" /></a>
+<a href="https://kaggle.com/collinswarui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="collins warui" height="30" width="40" /></a>
 <a href="https://instagram.com/wanjiru_collins47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wanjiru_collins47" height="30" width="40" /></a>
 </p>
 
