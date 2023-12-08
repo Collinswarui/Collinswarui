@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Collins</h1>
-<h3 align="center">A passionate MERN Stack & Flutter Developer</h3>
+<h3 align="center">A passionate MERN Stack & Flutter Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collinswarui&label=Profile%20views&color=0e75b6&style=flat" alt="collinswarui" /> </p>
 
