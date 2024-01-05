@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an Ecommerce**
 
-- 🌱 I’m currently learning **Flutter, Kubernetes**
+- 🌱 I’m currently learning **Flutter, Docker**
 
 - 💬 Ask me about **React, Express, Node, Mongo DB**
 
