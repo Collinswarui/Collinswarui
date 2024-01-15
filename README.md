@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collinswarui&label=Profile%20views&color=0e75b6&style=flat" alt="collinswarui" /> </p>
 
-- 🔭 I’m currently working on **an Ecommerce**
+- 🔭 I’m currently working on **Real Estate App**
 
 - 🌱 I’m currently learning **Flutter, Docker**
 
