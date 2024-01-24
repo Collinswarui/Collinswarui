@@ -30,6 +30,6 @@
     <br>
 </div>  <hr> <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collinswarui&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collinswarui&layout=compact&theme=light&langs_count=10&include_all_commits=true)](https://github.com/collinswarui)
 
 </div>
