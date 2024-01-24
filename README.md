@@ -23,5 +23,13 @@
 
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=collinswarui" alt="Collins's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=collinswarui&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+<br><hr>
+<div>
+  <a href="https://github.com/collinswarui">
+   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinswarui&layout=compact&langs_count=16&theme=dracula"/>
+    <br>
+</div>  <hr> <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collinswarui&hide_progress=true)
+
 </div>
