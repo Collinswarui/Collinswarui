@@ -1,11 +1,11 @@
 </h1>
-<h3 align="center">A passionate MERN Stack & Flutter Developer from Kenya</h3>
+<h3 align="center">A passionate MERN Stack Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collinswarui&label=Profile%20views&color=0e75b6&style=flat" alt="collinswarui" /> </p>
 
-- 🔭 I’m currently working on **Real Estate App**
+- 🔭 I’m currently working on **Blog App**
 
-- 🌱 I’m currently learning **Flutter, Docker**
+- 🌱 I’m currently learning **Next js**
 
 - 💬 Ask me about **React, Express, Node, Mongo DB**
 
