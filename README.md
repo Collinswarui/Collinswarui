@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Collins Wanjiru</h1>
-<h3 align="center">A passionate MERN stack developer</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on **Blog App**
 
-- 🌱 I’m currently learning **Next js, .Net**
+- 🌱 I’m currently learning **Flutter, Springboot**
 
-- 👯 I’m looking to collaborate on **.Net**
+- 👯 I’m looking to collaborate on **Springboot**
 
 - 💬 Ask me about **React, Node, Mongo DB, Express**
 
