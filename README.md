@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Collins Wanjiru</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Brian Gitau</h1>
+<h3 align="center">A passionate Blockchain Developer</h3>
 
 - 🔭 I’m currently working on **Blog App**
 
