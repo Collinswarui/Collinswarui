@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Node, Mongo DB, Express**
 
-- 📫 How to reach me **collinswanjiru47@gmail.com**
+- 📫 How to reach me **(https://www.linkedin.com/in/brian-gitau-a46921360/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
