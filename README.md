@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Brian Gitau</h1>
-<h3 align="center">A passionate Blockchain Developer</h3>
+<h1 align="center">Hi 👋, I'm Collins Wanjiru</h1>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 I’m currently working on **Blog App**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Node, Mongo DB, Express**
 
-- 📫 How to reach me **(https://www.linkedin.com/in/brian-gitau-a46921360/)**
+- 📫 How to reach me **collinswanjiru47@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
